@@ -1,0 +1,16 @@
+# Python environment
+yolo_env/
+venv/
+__pycache__/
+*.pyc
+
+# Dataset
+team-alpha-2/
+
+# Training outputs
+runs/
+*.pt
+
+# Secrets
+.env
+.env.*
